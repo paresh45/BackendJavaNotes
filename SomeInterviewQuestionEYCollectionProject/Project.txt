@@ -1,0 +1,44 @@
+Functional interface vs abstract classes after introducing default & static methods
+Need of a functional interface
+SOLID principle (real world examples & how to implement it)
+Coding question Given a list of employees, filter out names of those employees whose salary
+is greater than 25000 and age is greater than 48 (filter out duplicates)
+Method Reference
+Multiple Inheritance & its need
+Encapsulation (IS-A vs HAS-A relationship, data abstraction vs data hiding, composition vs aggregation)
+Multi-threading (how to return something from a child thread)
+Beautification of code
+
+Predicates, Consumers, Functions, Suppliers
+When receiving an unlimited string in input, how to handle it
+Early termination in streams based on condition
+Concurrency & parallel processing
+Synchronized block
+Security & JWT in Rest APIS
+Injections in Spring Boot
+Annotations
+Controller vs Rest Controller
+Soctors Microservice, Chaining of Microservices
+
+Sonarqube configuration, how to disable 1 particular file in Java code from getting Sonar scanned / Unit tested
+Left Join vs Right Join
+How to prevent SQL injection
+Where vs Having clause in SQL
+How do you stub test data in Junit
+Version of Junit and Mockito used
+How to mock static and final methods, void methods
+How to improve performance: API & DB
+Microservice inter-communication
+Types of injections in spring boot
+Different annotations in spring boot
+@Controller vs @Service vs @Component vs @Repository
+How is Kafka used in your project & how the configuration is done & how the messages are published/ received AWS services (EC2, RDS, SOS, SNS, EKS, ECS, Lambda, etc)
+Jenkins CI/CD pipelines, how to create and deploy
+Docker and Kubernetes, how to create images and deploy in Kubernetes clusters
+Create a Rest API for inserting and fetching data
+Validations in Spring boot, custom Validation using @Constraint
+Functional Interface in detail, Java 8 streams coding, terminal operations in stream
+Diff between ForEach and Stream.forEach
+two input CSV files, generate 3 output files like below, explain the logic in Java Springboot]
+matching records!!
+records 1st file (Left join kind)
